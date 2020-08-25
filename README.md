@@ -1,2 +1,3 @@
 # 42sh
-Full shell created in C, Epitech Project
+Shell created in C language, Epitech Project
+Created by Arnau, Kattalin, Mathieu and me.
